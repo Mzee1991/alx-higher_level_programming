@@ -8,5 +8,6 @@ def print_uniq_combos():
             else:
                 print("{:d}{:d}".format(i, j), end=", ")
 
+
 if __name__ == "__main__":
     print_uniq_combos()
