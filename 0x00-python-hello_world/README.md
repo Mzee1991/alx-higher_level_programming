@@ -1,1 +1,1 @@
-# This is day 1 of my python journey
+# This is day 1 of my python journey.
