@@ -2,7 +2,7 @@
 Write a Shell script that runs a Python script.
 The Python file name will be saved in the environment variable $PYFILE
 
-<div style="background-color: #333; color: #fff;">
+<div style="background-color: #333; color: #000;">
 mzee@ubuntu:~/py/0x00$ cat main.py 
 #!/usr/bin/python3
 print("Best School")
